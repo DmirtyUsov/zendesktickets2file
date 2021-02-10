@@ -1,0 +1,6 @@
+env_variables:
+  #
+  # Zendesk
+  ZD_SUBDOMAIN: 'your_subdomain' #.zendesk.com
+  ZD_USER_EMAIL: ''
+  ZD_API_TOKEN: ''
